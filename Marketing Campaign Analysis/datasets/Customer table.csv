@@ -1,0 +1,151 @@
+Customer_Id,Name,Gender,City_Id,Pincode,Birthdate,income_bracket,emailId,PhoneNo
+C_1,Chimayi Shishir,F,14,456789,1980-01-01,1.9926E7,ChimayiShishir80@outlook.com,9917570056
+C_10,Sharanya Paritosh,F,25,598804,1981-02-09,1.87852E7,SharanyaParitosh81@yahoo.com,9978696886
+C_100,Rati Vidya,F,30,285029,1992-03-13,1.03844E7,RatiVidya92@gmail.com,9973648909
+C_101,Bhagya Chirimar,F,11,681094,1992-04-27,1.47951E7,BhagyaChirimar92@outlook.com,9976562202
+C_102,Amrusha Imani,F,23,135785,1992-06-11,1.17389E7,AmrushaImani92@outlook.com,9991260301
+C_103,Hiral Shamsher,F,19,872008,1992-07-26,6605490.0,HiralShamsher92@gmail.com,9967324302
+C_104,Najma Bhaskar,F,25,198854,1992-09-09,1.22913E7,NajmaBhaskar92@gmail.com,9893809634
+C_105,Indukala Ramana,F,28,115225,1992-10-24,7204040.0,IndukalaRamana92@gmail.com,9950795127
+C_106,Komal Vinata,F,9,623610,1992-12-08,9700220.0,KomalVinata92@yahoo.com,9913137741
+C_107,Bimala Pundarik,F,25,228987,1993-01-22,1189760.0,BimalaPundarik93@yahoo.com,9972051368
+C_108,Shabari Jeevan,F,19,453074,1993-03-08,9027320.0,ShabariJeevan93@gmail.com,9964612776
+C_109,Shrigeeta Supriya,F,9,193905,1993-04-22,1.2173E7,ShrigeetaSupriya93@gmail.com,9967650845
+C_11,Shruti Koduri,F,22,733768,1981-03-26,8009130.0,ShrutiKoduri81@yahoo.com,9928742098
+C_110,Magana Priyavardhan,F,19,843719,1993-06-06,1.44089E7,MaganaPriyavardhan93@gmail.com,9907408028
+C_111,Daya Jitesh,F,15,162910,1993-07-21,1.14728E7,DayaJitesh93@gmail.com,9942233078
+C_112,Ekata Mathrubootham,F,26,129191,1993-09-04,9301920.0,EkataMathrubootham93@yahoo.com,9944593893
+C_113,Nitya Ketaki,F,21,932511,1993-10-19,4919320.0,NityaKetaki93@gmail.com,9983654826
+C_114,Nityapriya Venktesh,F,7,803094,1993-12-03,1.96127E7,NityapriyaVenktesh93@outlook.com,9897187154
+C_115,Akuti Lokhande,F,9,126519,1994-01-17,1.26723E7,AkutiLokhande94@gmail.com,9879716358
+C_116,Swasti Satyen,F,2,819612,1994-03-03,4266580.0,SwastiSatyen94@gmail.com,9908104121
+C_117,Jayani Jayati Maruti,F,22,408651,1994-04-17,8832570.0,JayaniJayatiMaruti94@gmail.com,9995810352
+C_118,Latika Lolaksi,F,5,875098,1994-06-01,1.12349E7,LatikaLolaksi94@rediffmail.com,9942393973
+C_119,Ashakiran Sarath,F,30,698562,1994-07-16,1.89295E7,AshakiranSarath94@gmail.com,9929962062
+C_12,Jamuna Sukhjinder,F,22,813976,1981-05-10,1.74986E7,JamunaSukhjinder81@outlook.com,9986403151
+C_120,Poornachandra Sameer,M,17,455851,1994-08-30,1842140.0,PoornachandraSameer94@yahoo.com,9966512251
+C_121,Udayachal Venu,M,16,399493,1994-10-14,1.96935E7,UdayachalVenu94@yahoo.com,9969469242
+C_122,Bratindra Dhadda,M,1,872214,1994-11-28,1.19975E7,BratindraDhadda94@gmail.com,9890247136
+C_123,Gursharan Thyagarajan,M,17,839733,1995-01-12,5824740.0,GursharanThyagarajan95@outlook.com,9905463665
+C_124,Hemendu Rammohan,M,26,266864,1995-02-26,2688630.0,HemenduRammohan95@yahoo.com,9955246057
+C_125,Indukanta Siddhanta Susarla,M,16,195126,1995-04-12,1.19437E7,IndukantaSiddhantaSusarla95@outlook.com,9962420359
+C_126,Kamlesh Nandkeolyar,M,12,794164,1995-05-27,1.58105E7,KamleshNandkeolyar95@gmail.com,9970848217
+C_127,Tuhin Sunthari,M,7,558791,1995-07-11,3324860.0,TuhinSunthari95@outlook.com,9932984367
+C_128,Sudhakar Padmanabh,M,26,140659,1995-08-25,1955700.0,SudhakarPadmanabh95@outlook.com,9899363524
+C_129,Isar Kunwarjit,M,4,996094,1995-10-09,1.11766E7,IsarKunwarjit95@rediffmail.com,9969457015
+C_13,Shilpita Pujar,F,30,847102,1981-06-24,7693410.0,ShilpitaPujar81@outlook.com,9894239134
+C_130,Eshwar Vishwamber,M,23,655821,1995-11-23,3647900.0,EshwarVishwamber95@gmail.com,9925775555
+C_131,Prateek Kandathil,M,28,108393,1996-01-07,1718740.0,PrateekKandathil96@gmail.com,9969420072
+C_132,Chitraksh Manandhar,M,28,413141,1996-02-21,1.61397E7,ChitrakshManandhar96@gmail.com,9935048529
+C_133,Pushpak Sanjna,M,6,195620,1996-04-06,4351480.0,PushpakSanjna96@yahoo.com,9929050278
+C_134,Adhik Prasad,M,7,639240,1996-05-21,1118900.0,AdhikPrasad96@yahoo.com,9902024037
+C_135,Basudha Manjari,M,14,774081,1996-07-05,4786700.0,BasudhaManjari96@gmail.com,9890514200
+C_136,Yaman Senapathy,M,31,462166,1996-08-19,1.58734E7,YamanSenapathy96@outlook.com,9967555344
+C_137,Ritvik Keskar,M,27,867333,1996-10-03,1768600.0,RitvikKeskar96@rediffmail.com,9958682890
+C_138,Amar Ramasubramanian,M,23,607223,1996-11-17,1.97558E7,AmarRamasubramanian96@outlook.com,9985721916
+C_139,Banbihari Supriya,M,26,641771,1997-01-01,2343890.0,BanbihariSupriya97@gmail.com,9894000661
+C_14,Rupali Surendra,F,4,198786,1981-08-08,4894020.0,RupaliSurendra81@gmail.com,9973324100
+C_140,Vikramendra Tanuj Vishal,M,15,741932,1997-02-15,2887860.0,VikramendraTanujVishal97@yahoo.com,9996324000
+C_141,Madhusudan Veerasamy,M,7,727983,1997-04-01,602349.0,MadhusudanVeerasamy97@outlook.com,9958628615
+C_142,Sohail Mandava,M,10,562013,1997-05-16,1.31552E7,SohailMandava97@gmail.com,9976256540
+C_143,Suryabhan Niten,M,18,829231,1997-06-30,1.36086E7,SuryabhanNiten97@gmail.com,9987614256
+C_144,Neelambar Jagarlamudi,M,22,353062,1997-08-14,9110980.0,NeelambarJagarlamudi97@gmail.com,9883402415
+C_145,Vrishin Yash Nayudu,M,3,621151,1997-09-28,6351280.0,VrishinYashNayudu97@rediffmail.com,9949198153
+C_146,Yatindra Saini,M,15,132022,1997-11-12,9141450.0,YatindraSaini97@gmail.com,9898166446
+C_147,Shripati Suthar,M,13,845263,1997-12-27,7568460.0,ShripatiSuthar97@outlook.com,9945375559
+C_148,Raj Trilochan Satyavati,M,13,807112,1998-02-10,7504600.0,RajTrilochanSatyavati98@outlook.com,9912805151
+C_149,Baldev Davuluri,M,7,772857,1998-03-27,1.91443E7,BaldevDavuluri98@outlook.com,9982480636
+C_15,Sanjivani Konkipudi,F,18,865773,1981-09-22,4811110.0,SanjivaniKonkipudi81@gmail.com,9981456300
+C_150,Gayatri Sethi,F,7,921958,1998-05-11,1.68676E7,GayatriSethi98@gmail.com,9877135765
+C_16,Vidula Gahlot,F,3,577955,1981-11-06,1.69683E7,VidulaGahlot81@yahoo.com,9957462308
+C_17,Ulupi Oruganti,F,18,751118,1981-12-21,1.57547E7,UlupiOruganti81@gmail.com,9996630731
+C_18,Shreemayi Naik,F,27,931187,1982-02-04,1.44331E7,ShreemayiNaik82@gmail.com,9982104707
+C_19,Firoza Naueshwara,F,12,364634,1982-03-21,1.67961E7,FirozaNaueshwara82@gmail.com,9997788385
+C_2,Shrilata Nihar,F,24,331918,1980-02-15,1.80571E7,ShrilataNihar80@gmail.com,9888004031
+C_20,Diksha Punita,F,26,925685,1982-05-05,2906700.0,DikshaPunita82@rediffmail.com,9996098427
+C_21,Nileen Saginala,F,10,110047,1982-06-19,1204510.0,NileenSaginala82@yahoo.com,9961297119
+C_22,Mythili Pandya,F,11,344119,1982-08-03,6837960.0,MythiliPandya82@gmail.com,9993580168
+C_23,Rachna Gaekwad,F,28,228254,1982-09-17,872629.0,RachnaGaekwad82@outlook.com,9915960496
+C_24,Anusha Sharmistha,F,9,602422,1982-11-01,5344200.0,AnushaSharmistha82@yahoo.com,9957631961
+C_25,Asha Vattyam,F,6,428686,1982-12-16,1.04742E7,AshaVattyam82@gmail.com,9959993706
+C_26,Padmalaya Suravinda,F,23,914721,1983-01-30,1.7647E7,PadmalayaSuravinda83@gmail.com,9949470946
+C_27,Pushpita Shefali,F,5,506946,1983-03-16,6613820.0,PushpitaShefali83@outlook.com,9989533234
+C_28,Hasita Yalamanchilli,F,24,578444,1983-04-30,9198110.0,HasitaYalamanchilli83@yahoo.com,9934252235
+C_29,Tarini Chiba,F,15,668839,1983-06-14,4923520.0,TariniChiba83@outlook.com,9919989375
+C_3,Kundanika Waman,F,17,280897,1980-03-31,461274.0,KundanikaWaman80@gmail.com,9898083820
+C_30,Ruksana Kumur,F,31,755216,1983-07-29,1.19693E7,RuksanaKumur83@gmail.com,9989116264
+C_31,Sampat Praharaj,M,25,542809,1983-09-12,1.54716E7,SampatPraharaj83@gmail.com,9958591313
+C_32,Harkrishna Gangesh Prasai,M,7,460053,1983-10-27,1.86101E7,HarkrishnaGangeshPrasai83@outlook.com,9883047897
+C_33,Mahabahu Devadas Mansey,M,24,180442,1983-12-11,1.00942E7,MahabahuDevadasMansey83@outlook.com,9914986135
+C_34,Lav Sreerupa,M,4,429528,1984-01-25,3440890.0,LavSreerupa84@gmail.com,9927789037
+C_35,Nitin Shivaprakash,M,3,283878,1984-03-10,1809940.0,NitinShivaprakash84@gmail.com,9955012565
+C_36,Prabhas Rangaswamy,M,13,769925,1984-04-24,1.47266E7,PrabhasRangaswamy84@gmail.com,9968793036
+C_37,Kanak Vadlamani,M,16,551841,1984-06-08,459502.0,KanakVadlamani84@rediffmail.com,9947896066
+C_38,Jainarayan Markandeya,M,9,328720,1984-07-23,8872690.0,JainarayanMarkandeya84@outlook.com,9886599268
+C_39,Balagopal Narsi,M,25,346611,1984-09-06,1.42167E7,BalagopalNarsi84@gmail.com,9897164961
+C_4,Basabi Kosanam,F,24,553639,1980-05-15,1.71095E7,BasabiKosanam80@outlook.com,9966967813
+C_40,Shantanu Kodumudi,M,1,441196,1984-10-21,1.55893E7,ShantanuKodumudi84@yahoo.com,9923811243
+C_41,Pratiti Surendar,M,29,572776,1984-12-05,1.57771E7,PratitiSurendar84@yahoo.com,9999321956
+C_42,Swagat Rekha,M,25,671563,1985-01-19,1098190.0,SwagatRekha85@gmail.com,9886881495
+C_43,Oorjit Amulya Dehiya,M,26,547248,1985-03-05,8349490.0,OorjitAmulyaDehiya85@gmail.com,9975368874
+C_44,Amogh Vandita,M,25,751803,1985-04-19,5514800.0,AmoghVandita85@gmail.com,9988548584
+C_45,Raksha Kamraj,M,27,477112,1985-06-03,1.46046E7,RakshaKamraj85@gmail.com,9949311903
+C_46,Shubhang Chinmay,M,15,967737,1985-07-18,2950700.0,ShubhangChinmay85@gmail.com,9991372588
+C_47,Preetish Kurapati,M,30,947665,1985-09-01,1.71833E7,PreetishKurapati85@outlook.com,9938571535
+C_48,Japendra Padmasola,M,5,910859,1985-10-16,6369730.0,JapendraPadmasola85@gmail.com,9922147250
+C_49,Shrikrishna Konduru,M,22,534069,1985-11-30,9203950.0,ShrikrishnaKonduru85@outlook.com,9878034070
+C_5,Navaneeta Nayyar,F,31,549301,1980-06-29,2514510.0,NavaneetaNayyar80@gmail.com,9992794908
+C_50,Praveen Mayekar,M,6,605480,1986-01-14,1.02294E7,PraveenMayekar86@outlook.com,9897137619
+C_51,Taral Phani,M,29,764603,1986-02-28,2548130.0,TaralPhani86@gmail.com,9882191645
+C_52,Kanwaljeet Saeed,M,22,997191,1986-04-14,1.52834E7,KanwaljeetSaeed86@gmail.com,9989484616
+C_53,Drupad Bahl,M,19,186451,1986-05-29,1.71397E7,DrupadBahl86@gmail.com,9992457660
+C_54,Chirantan Virasana,M,7,102951,1986-07-13,1.09583E7,ChirantanVirasana86@gmail.com,9983315863
+C_55,Deependra Vanchinathan,M,4,272438,1986-08-27,1.88794E7,DeependraVanchinathan86@gmail.com,9983547502
+C_56,Panini Soumen,M,9,641715,1986-10-11,1.0192E7,PaniniSoumen86@yahoo.com,9974395735
+C_57,Janardan Soumitra,M,27,792302,1986-11-25,1.27653E7,JanardanSoumitra86@yahoo.com,9961547802
+C_58,Vineet Vidwans,M,23,693136,1987-01-09,2600050.0,VineetVidwans87@gmail.com,9998978436
+C_59,Kanwalkishore Multani,M,3,389212,1987-02-23,953100.0,KanwalkishoreMultani87@rediffmail.com,9900114067
+C_6,Ascharya Vasudha,F,30,633384,1980-08-13,3986180.0,AscharyaVasudha80@gmail.com,9993808180
+C_60,Ninad Koushika,M,7,239919,1987-04-09,1370380.0,NinadKoushika87@yahoo.com,9878871599
+C_61,Balwant Shripati,M,27,212454,1987-05-24,1.44983E7,BalwantShripati87@outlook.com,9895341688
+C_62,Atmajyoti Nigam,M,19,995808,1987-07-08,9352840.0,AtmajyotiNigam87@outlook.com,9929132931
+C_63,Gopichand Ujjwal,M,21,873157,1987-08-22,1.08353E7,GopichandUjjwal87@outlook.com,9966692484
+C_64,Rajyeshwar Kadowala,M,10,878493,1987-10-06,6983850.0,RajyeshwarKadowala87@outlook.com,9909118214
+C_65,Vishram Keyur Prithviraj,M,21,400568,1987-11-20,1.48977E7,VishramKeyurPrithviraj87@gmail.com,9943941771
+C_66,Sudhanssu Ramamohan,M,23,766883,1988-01-04,1843640.0,SudhanssuRamamohan88@outlook.com,9976722511
+C_67,Mayank Chhavvi,M,2,272743,1988-02-18,1.05485E7,MayankChhavvi88@yahoo.com,9974493947
+C_68,Tejeshwar Sagoo,M,30,961027,1988-04-03,1.04784E7,TejeshwarSagoo88@outlook.com,9967151911
+C_69,Prajin Dinesh Sunny,M,27,194599,1988-05-18,2488780.0,PrajinDineshSunny88@gmail.com,9928346265
+C_7,Rajanigandha Deol,F,30,953803,1980-09-27,1.20756E7,RajanigandhaDeol80@gmail.com,9891140810
+C_70,Wali Vedati,M,29,805442,1988-07-02,7422760.0,WaliVedati88@gmail.com,9958926841
+C_71,Om Meherhomji,M,10,767061,1988-08-16,6443950.0,OmMeherhomji88@gmail.com,9904187962
+C_72,Yajnesh Mukti,M,29,821679,1988-09-30,5730710.0,YajneshMukti88@gmail.com,9914180572
+C_73,Pariket Mihir,M,25,978978,1988-11-14,1.4218E7,PariketMihir88@rediffmail.com,9978236449
+C_74,Parikshit Kanetkar,M,6,741775,1988-12-29,2872140.0,ParikshitKanetkar88@outlook.com,9897674371
+C_75,Mulkraj Vidya,M,10,805392,1989-02-12,1.61619E7,MulkrajVidya89@rediffmail.com,9898858615
+C_76,Nidhish Yashpal Mohanty,M,23,122883,1989-03-29,1.509E7,NidhishYashpalMohanty89@outlook.com,9991353919
+C_77,Saroj Radhakrishna Mallika,M,6,385373,1989-05-13,1.45781E7,SarojRadhakrishnaMallika89@outlook.com,9941119806
+C_78,Gangol Shaik,M,2,325959,1989-06-27,9459290.0,GangolShaik89@outlook.com,9977142932
+C_79,Parijat Chandrasekar,M,10,804845,1989-08-11,1.17778E7,ParijatChandrasekar89@rediffmail.com,9927477867
+C_8,Swapna Bhanjee,F,4,506485,1980-11-11,4592960.0,SwapnaBhanjee80@gmail.com,9944594868
+C_80,Mitra Sundaramoorthy,M,18,143386,1989-09-25,4970150.0,MitraSundaramoorthy89@outlook.com,9925176201
+C_81,Jag Vallurupalli,M,2,226523,1989-11-09,9806060.0,JagVallurupalli89@outlook.com,9959871700
+C_82,Bankim Kurinji,M,23,485845,1989-12-24,7299690.0,BankimKurinji89@outlook.com,9962442479
+C_83,Tahir Sahni,M,4,893221,1990-02-07,1.0048E7,TahirSahni90@yahoo.com,9918522037
+C_84,Faiyaz Madhana,M,24,676291,1990-03-24,1889100.0,FaiyazMadhana90@outlook.com,9976862330
+C_85,Shubhang Amra,M,29,612467,1990-05-08,1.71373E7,ShubhangAmra90@yahoo.com,9931232483
+C_86,Jogindra Tyagi,M,27,325728,1990-06-22,7535240.0,JogindraTyagi90@yahoo.com,9944627668
+C_87,Mandeep Thundyil,M,5,390580,1990-08-06,8608890.0,MandeepThundyil90@outlook.com,9994751361
+C_88,Shrikrishna Malipeddi,M,13,973309,1990-09-20,1.76006E7,ShrikrishnaMalipeddi90@gmail.com,9986320031
+C_89,Ashu Chandiramani,M,4,581349,1990-11-04,5089180.0,AshuChandiramani90@outlook.com,9951262911
+C_9,Shyama Gajaren,F,26,290116,1980-12-26,1.22957E7,ShyamaGajaren80@outlook.com,9983726536
+C_90,Indrayani Tyagi,F,7,792573,1990-12-19,5292640.0,IndrayaniTyagi90@gmail.com,9971753025
+C_91,Akshaya Battacharjee,F,9,307470,1991-02-02,1.47269E7,AkshayaBattacharjee91@outlook.com,9912708162
+C_92,Indu Sangam,F,9,391007,1991-03-19,1.64291E7,InduSangam91@outlook.com,9978922205
+C_93,Rijuta Dasgupta,F,25,188045,1991-05-03,1.55516E7,RijutaDasgupta91@outlook.com,9917731854
+C_94,Induja Ruma Krishnamurthy,F,15,945329,1991-06-17,1.41548E7,IndujaRumaKrishnamurthy91@gmail.com,9941390417
+C_95,Shraddha Sawalha,F,12,400370,1991-08-01,1158800.0,ShraddhaSawalha91@gmail.com,9990586626
+C_96,Kunda Konkar,F,28,217644,1991-09-15,3892400.0,KundaKonkar91@rediffmail.com,9998647532
+C_97,Jasodhara Shail,F,26,633018,1991-10-30,1.92775E7,JasodharaShail91@outlook.com,9996374795
+C_98,Utpala Sangita,F,14,424717,1991-12-14,1.35603E7,UtpalaSangita91@gmail.com,9980457723
+C_99,Fajyaz Sankait,F,21,965625,1992-01-28,1.58527E7,FajyazSankait92@gmail.com,9979736924

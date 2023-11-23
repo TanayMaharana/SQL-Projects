@@ -1,1 +1,7 @@
-
+campaign_id,campaignType,start_date,end_date
+CiD1,Product Launch,2019-01-01,2019-01-31
+CiD2,Brand Awareness,2019-12-01,2019-12-31
+CiD3,Seasonal Push,2020-07-01,2020-07-30
+CiD4,Brand Awareness,2020-12-01,2020-12-31
+CiD5,Rebranding campaign,2021-07-01,2021-07-30
+CiD6,Seasonal Push,2022-12-01,2022-12-31
